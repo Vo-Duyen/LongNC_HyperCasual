@@ -1,0 +1,16 @@
+{
+    "name": "com.danlanga.longnc",
+    "version": "1.0.0",
+    "displayName": "Game Hyper Casual",
+    "description": "I am DanlangA",
+    "unity": "2020.3",
+    "author": {
+        "name": "LongNC",
+        "url": "https://github.com/Vo-Duyen/LongNC_HyperCasual.git"
+    },
+    "keywords": [
+        "Game",
+        "UI",
+        "Player"
+    ]
+}
